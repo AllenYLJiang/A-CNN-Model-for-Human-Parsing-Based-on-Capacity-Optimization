@@ -22,4 +22,4 @@ https://drive.google.com/file/d/1bEehmh5dQUD18et_FeGEJESVbbC4S7S4/view?usp=shari
 
 To further improve performance, refer to 
 
-https://github.com/AllenYLJiang/A-CNN-Model-for-Human-Parsing-Based-on-Capacity-Optimization/blob/master/Stage1.png
+<img width="600" height="208" src="https://github.com/AllenYLJiang/A-CNN-Model-for-Human-Parsing-Based-on-Capacity-Optimization/blob/master/Stage1.png"/> 
