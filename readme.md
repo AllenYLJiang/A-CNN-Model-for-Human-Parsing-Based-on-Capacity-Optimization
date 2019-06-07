@@ -19,3 +19,5 @@ segmentation_1_foreground_class.prototxt
 We need to check which one of the two predictions on each image (with or without depth) is closer to the 1-class prediction. Here the metric is miou. Then for each image we adopt the prediction from the model (with or without depth) whose prediction is more similar to that of 1 class segmentation model.
 The predictions from the 1-class segmentation model:
 https://drive.google.com/file/d/1bEehmh5dQUD18et_FeGEJESVbbC4S7S4/view?usp=sharing
+
+To further improve performance, refer to 
